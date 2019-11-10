@@ -1,6 +1,6 @@
 # Auto-Garbage-Sorter
 ## Overview 
-The algorithm developed in this repo can correctly classify the type of garbage from a picture. This ensures people don't put their garbage in the wrong bin ;). We developed this algorithm in 12 hours for the Benevity Hackathon and won Peoples choice award.
+The algorithm developed in this repo can correctly classify the type of garbage from a picture. This ensures people don't put their garbage in the wrong bin ;). We developed this application in 12 hours for the Benevity Hackathon and won Peoples choice award.
 
 ## Tech Stack
 - Frontend: An app that allows users to take a snapshot of their item.
