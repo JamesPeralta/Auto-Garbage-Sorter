@@ -1,0 +1,6 @@
+[submodule "Smart_Garbage_Frontend"]
+	path = Smart_Garbage_Frontend
+	url = https://github.com/justinf34/Smart_Garbage_Frontend
+[submodule "smart-garbage-backend"]
+	path = smart-garbage-backend
+	url = https://github.com/ac1214/smart-garbage-backend
