@@ -21,4 +21,4 @@ The project in this repo can correctly classify the type of garbage from a pictu
 * Christian Garrovillo [github.com/christianjpg](https://github.com/christianjpg)
 * Nathaniel Habtegergesa [github.com/Natu09](https://github.com/Natu09)
 * Justin Flores [github.com/justinf34](https://github.com/justinf34)
-* Tony Wong
+* Tony Wong [github.com/hitony7](https://github.com/hitony7)
